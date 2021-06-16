@@ -1,0 +1,18 @@
+.myStyle{
+  color:black;
+}
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
+.FormContainer{
+  background-color:lightskyblue;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin: 0 auto;
+  padding: 3%;
+}
+@media only screen and (min-width:768px) 
+{
+  .FormContainer{
+    width: 25%;
+  }
+}
